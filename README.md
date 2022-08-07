@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Wojszi
+- 👨‍🎓 I'm currently studing applied maths
+- 🌱 I’m currently learning Python/SQL/Data analysis
+- 💞️ I’m looking to collaborate on data related projects
+- 📫 Reach me via wojszi.szindler@gmail.com
