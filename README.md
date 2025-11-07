@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Wojszi
-- 👨‍🎓 I'm currently studing data analysis. Bachelors of Arts in applied maths
-- 🌱 I’m currently learning Python/SQL/R/neo4j
-- 💞️ I’m looking to collaborate on data related projects
+- 👨‍🎓 I'm Msc in mathematical data analysis. Bachelors of Arts in applied maths
 - 📫 Reach me via wojszi.szindler@gmail.com
